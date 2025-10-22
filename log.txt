@@ -1,5 +1,5 @@
-2025-10-22 03:44:17,288 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2025-10-22 03:44:17,976 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2025-10-22 03:44:18,978 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2025-10-22 03:44:19,254 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
-2025-10-22 03:44:54,436 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Read timed out. (read timeout=15)
+2025-10-22 06:33:23,145 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-10-22 06:33:23,838 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2025-10-22 06:33:24,526 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2025-10-22 06:33:24,996 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2025-10-22 06:33:56,773 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Read timed out. (read timeout=15)
