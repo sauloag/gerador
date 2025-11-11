@@ -1,4 +1,4 @@
-2025-11-10 21:20:03,072 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2025-11-10 21:20:03,685 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2025-11-10 21:20:04,616 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2025-11-10 21:20:04,851 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2025-11-11 01:48:03,266 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-11-11 01:48:03,888 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2025-11-11 01:48:04,681 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2025-11-11 01:48:07,464 - error - URL Error https://www.twitch.tv/xt_t419r: Error: PersistedQueryNotFound
