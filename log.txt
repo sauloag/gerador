@@ -1,5 +1,5 @@
-2026-05-12 19:56:42,576 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2026-05-12 19:56:43,354 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2026-05-12 19:56:44,140 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2026-05-12 19:56:44,559 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
-2026-05-12 19:57:14,728 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f190d475610>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
+2026-05-12 22:13:25,578 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2026-05-12 22:13:26,248 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2026-05-12 22:13:26,868 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-05-12 22:13:27,254 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2026-05-12 22:13:57,427 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62363f9490>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
